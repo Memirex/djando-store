@@ -1,1 +1,1 @@
-# djando-store
+# django-store
